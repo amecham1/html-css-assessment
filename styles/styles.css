@@ -17,29 +17,25 @@ body{
 .ham{
   width:10vw;
   height: 10vh;
-  background-image: url('../img/ham.png');
+  /*background-image: url('../img/ham.png');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: contain;*/
   display: inline-block;
   margin: 10px;
 }
 .facebook{
-  width:5vw;
-  height: 5vh;
-  background-image: url('../img/facebook.png');
-  background-repeat: no-repeat;
-  background-size: contain;
-  display: inline-block;
+  width:10vw;
+  height: 10vh;
   float: right;
   margin: 10px;
 }
 .twitter{
-  width:5vw;
-  height: 5vh;
-  background-image: url('../img/twitter.png');
+  width:10vw;
+  height: 10vh;
+  /*background-image: url('../img/twitter.png');
   background-repeat: no-repeat;
   background-size: contain;
-  display: inline-block;
+  display: inline-block;*/
   float: right;
   margin: 10px;
 }
@@ -77,10 +73,10 @@ font-weight: 500;
 .arrow{
   width:10vw;
   height: 10vh;
-  background-image: url('../img/arrow.png');
+  /*background-image: url('../img/arrow.png');
   background-repeat: no-repeat;
   background-size: contain;
-  display: inline-block;
+  display: inline-block;*/
   float: right;
 }
 
